@@ -1,0 +1,22 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    color: #b10a0a;
+}
+
+h3 {
+    color: blue;
+}
+
+p {
+
+    color: rgb(48, 108, 204);
+   
+    width: 500px;
+   
+    border: 1px solid black;
+   
+   }
